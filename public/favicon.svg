@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>Gravity Typist</title>
+  <rect width="32" height="32" rx="7" fill="#0b0d1a"/>
+  <g fill="none" stroke-linecap="square" transform="rotate(-14 15 13)">
+    <path d="M22 7.5A8.5 8.5 0 1 0 22 18.5V13.5H16.5" stroke="#2de2e6" stroke-opacity="0.3" stroke-width="6.5"/>
+    <path d="M22 7.5A8.5 8.5 0 1 0 22 18.5V13.5H16.5" stroke="#2de2e6" stroke-width="3.6"/>
+  </g>
+  <rect x="4" y="26" width="24" height="2.5" rx="1.25" fill="#ffd166"/>
+</svg>
